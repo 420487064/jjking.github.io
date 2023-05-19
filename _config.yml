@@ -104,4 +104,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/420487064/jjking.github.io.git
-  branch: master
+  branch: next
